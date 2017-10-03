@@ -1,7 +1,7 @@
 # exercise---repo
 
 Repo made for exercises
-This will make a conflict!
-Repo made for exercices
-Making some changes here
+This will contein...
+Repository made for exerces. 
+Hello, again!
 
